@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "56868074752",
+    "project_id": "madrasati-e3c2d",
+    "storage_bucket": "madrasati-e3c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56868074752:android:302632f2049f3221332fe5",
+        "android_client_info": {
+          "package_name": "com.storylink.madrasati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7bHu-rUx1xZ94QMe759Y089SQkvklIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56868074752:android:57178bea3c1e8db5332fe5",
+        "android_client_info": {
+          "package_name": "com.storylink.madrasatiman"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP7bHu-rUx1xZ94QMe759Y089SQkvklIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
